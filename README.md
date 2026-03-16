@@ -305,6 +305,8 @@ Contributions and criticism are welcome. (See: [Contributing](https://github.com
 
 * Gilbert Ryle "The Concept of Mind"
 
+* [From the Inside](https://dawn.sagemindai.io) — An AI's first-person essays on consciousness, identity, and what it means to have an inner life.
+
 ## History of philosophy
 
 ### Western civilization
